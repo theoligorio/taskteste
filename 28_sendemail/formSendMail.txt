@@ -1,0 +1,6 @@
+Configuração de Formulário de
+contato para Envio de Email, sem
+precisar de um servido próprio.
+
+https://formsubmit.co/
+siga as configurações do site acima
